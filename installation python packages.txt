@@ -1,0 +1,12 @@
+python packages:
+
+1.already we have python-3.6.but we want packages or modules(i.e scipy,numpy,matplotlib,pandas,..etc)
+2.how to install the python packages on ubuntu
+
+open terminal--type the python
+then enter.it shows version of python
+and now step process---1.sudo apt get install --upgrade python
+2.pip install scipy  % scipy--scientific python
+3.pip install numpy  % numpy--numerical python
+4.pip install matplotlib % matplpotlib
+5.pip install pandas % pandas
